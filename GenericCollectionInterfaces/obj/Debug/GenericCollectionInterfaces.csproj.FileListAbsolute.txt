@@ -1,0 +1,5 @@
+c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\GenericCollectionInterfaces\obj\Debug\GenericCollectionInterfaces.csprojResolveAssemblyReference.cache
+c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\GenericCollectionInterfaces\bin\Debug\GenericCollectionInterfaces.dll
+c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\GenericCollectionInterfaces\bin\Debug\GenericCollectionInterfaces.pdb
+c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\GenericCollectionInterfaces\obj\Debug\GenericCollectionInterfaces.dll
+c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\GenericCollectionInterfaces\obj\Debug\GenericCollectionInterfaces.pdb

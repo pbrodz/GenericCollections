@@ -1,0 +1,14 @@
+c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\CollectionsGenerics\bin\Debug\CollectionsGenerics.exe.config
+c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\CollectionsGenerics\obj\Debug\CollectionsGenerics.csprojResolveAssemblyReference.cache
+c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\CollectionsGenerics\bin\Debug\CollectionsGenerics.exe
+c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\CollectionsGenerics\bin\Debug\CollectionsGenerics.pdb
+c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\CollectionsGenerics\obj\Debug\CollectionsGenerics.exe
+c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\CollectionsGenerics\obj\Debug\CollectionsGenerics.pdb
+c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\CollectionsGenerics\bin\Debug\Arrays.dll
+c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\CollectionsGenerics\bin\Debug\Arrays.pdb
+c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\CollectionsGenerics\bin\Debug\Generics.dll
+c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\CollectionsGenerics\bin\Debug\Lists.dll
+c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\CollectionsGenerics\bin\Debug\Generics.pdb
+c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\CollectionsGenerics\bin\Debug\Lists.pdb
+c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\CollectionsGenerics\bin\Debug\GenericDictionaries.dll
+c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\CollectionsGenerics\bin\Debug\GenericDictionaries.pdb

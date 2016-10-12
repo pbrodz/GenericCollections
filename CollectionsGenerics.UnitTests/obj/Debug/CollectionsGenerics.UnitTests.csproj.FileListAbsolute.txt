@@ -1,0 +1,13 @@
+c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\CollectionsGenerics.UnitTests\bin\Debug\CollectionsGenerics.UnitTests.dll
+c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\CollectionsGenerics.UnitTests\bin\Debug\CollectionsGenerics.UnitTests.pdb
+c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\CollectionsGenerics.UnitTests\obj\Debug\CollectionsGenerics.UnitTests.csprojResolveAssemblyReference.cache
+c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\CollectionsGenerics.UnitTests\obj\Debug\CollectionsGenerics.UnitTests.dll
+c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\CollectionsGenerics.UnitTests\obj\Debug\CollectionsGenerics.UnitTests.pdb
+c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\CollectionsGenerics.UnitTests\bin\Debug\Arrays.dll
+c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\CollectionsGenerics.UnitTests\bin\Debug\Generics.dll
+c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\CollectionsGenerics.UnitTests\bin\Debug\Arrays.pdb
+c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\CollectionsGenerics.UnitTests\bin\Debug\Generics.pdb
+c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\CollectionsGenerics.UnitTests\bin\Debug\Lists.dll
+c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\CollectionsGenerics.UnitTests\bin\Debug\Lists.pdb
+c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\CollectionsGenerics.UnitTests\bin\Debug\GenericDictionaries.dll
+c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\CollectionsGenerics.UnitTests\bin\Debug\GenericDictionaries.pdb

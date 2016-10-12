@@ -1,0 +1,5 @@
+c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\Generics\bin\Debug\Generics.dll
+c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\Generics\bin\Debug\Generics.pdb
+c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\Generics\obj\Debug\Generics.dll
+c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\Generics\obj\Debug\Generics.pdb
+c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\Generics\obj\Debug\Generics.csprojResolveAssemblyReference.cache

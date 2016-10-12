@@ -1,0 +1,5 @@
+c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\Arrays\bin\Debug\Arrays.dll
+c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\Arrays\bin\Debug\Arrays.pdb
+c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\Arrays\obj\Debug\Arrays.csprojResolveAssemblyReference.cache
+c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\Arrays\obj\Debug\Arrays.dll
+c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\Arrays\obj\Debug\Arrays.pdb

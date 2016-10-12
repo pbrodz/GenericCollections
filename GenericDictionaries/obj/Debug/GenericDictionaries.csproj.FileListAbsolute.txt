@@ -1,0 +1,5 @@
+c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\GenericDictionaries\bin\Debug\GenericDictionaries.dll
+c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\GenericDictionaries\bin\Debug\GenericDictionaries.pdb
+c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\GenericDictionaries\obj\Debug\GenericDictionaries.csprojResolveAssemblyReference.cache
+c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\GenericDictionaries\obj\Debug\GenericDictionaries.dll
+c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\GenericDictionaries\obj\Debug\GenericDictionaries.pdb

@@ -1,0 +1,5 @@
+c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\Lists\bin\Debug\Lists.dll
+c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\Lists\bin\Debug\Lists.pdb
+c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\Lists\obj\Debug\Lists.csprojResolveAssemblyReference.cache
+c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\Lists\obj\Debug\Lists.dll
+c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\Lists\obj\Debug\Lists.pdb
