@@ -28,15 +28,28 @@ namespace Generics
     /// So now we are completely generic.
     /// So, by convention you would use T and V, but you can use anything as long as you prefix with T and V
     /// Make these variable types easier to read
+    ///
+    /// So...this first class accepts two Generic parameters and in one of its constructors, assigns then to
+    /// local variables.
+    /// You would use this as follows:
+    ///     var gen = new Generics.OperationResult<bool, string>(true, "message");
     /// </summary>
     /// <typeparam name="TResult"></typeparam>
-    /// /// <typeparam name="VMessage"></typeparam>
+    /// <typeparam name="VMessage"></typeparam>
     public class OperationResult<TResult, VMessage>
     {
         public OperationResult()
         {
 
         }
+        /// <summary>
+        /// See that : this() at the end of this constructor? When this class is instantiated, that ensures that
+        /// the constructor without parameters is called first before this one
+        /// You can also use : base() here if your class is derived from a base class and you want the base
+        /// constructor to be called
+        /// </summary>
+        /// <param name="result"></param>
+        /// <param name="message"></param>
         public OperationResult(TResult result, VMessage message) : this()
         {
             this.Result = result;
@@ -90,7 +103,7 @@ namespace Generics
     {
         /// <summary>
         /// This method takes in a class with a public parameterless constructor that is instantiated
-        /// code is ommitted to populate this new object
+        /// code is omitted to populate this new object
         /// and the result is returned
         /// </summary>
         public V Populate<V>(string sql) where V : class, new()
@@ -106,7 +119,7 @@ namespace Generics
     public class MultiConstrainedClass <T, V> where T : struct where V : class
     {
         /// <summary>
-        /// and multiple generic constraints on a method - just for compelteness :)
+        /// and multiple generic constraints on a method - just for completeness :)
         /// Here, we're taking in a couple of generics each with their own constraint
         /// </summary>
         public Y Populate<X, Y>(string SQL, Y result) where X : struct where Y : struct

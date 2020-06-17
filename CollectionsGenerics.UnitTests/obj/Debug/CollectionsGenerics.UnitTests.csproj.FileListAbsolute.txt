@@ -11,3 +11,18 @@ c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\Collec
 c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\CollectionsGenerics.UnitTests\bin\Debug\Lists.pdb
 c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\CollectionsGenerics.UnitTests\bin\Debug\GenericDictionaries.dll
 c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\CollectionsGenerics.UnitTests\bin\Debug\GenericDictionaries.pdb
+D:\repos\GenericCollections\CollectionsGenerics.UnitTests\bin\Debug\CollectionsGenerics.UnitTests.dll
+D:\repos\GenericCollections\CollectionsGenerics.UnitTests\bin\Debug\CollectionsGenerics.UnitTests.pdb
+D:\repos\GenericCollections\CollectionsGenerics.UnitTests\bin\Debug\Arrays.dll
+D:\repos\GenericCollections\CollectionsGenerics.UnitTests\bin\Debug\GenericDictionaries.dll
+D:\repos\GenericCollections\CollectionsGenerics.UnitTests\bin\Debug\Generics.dll
+D:\repos\GenericCollections\CollectionsGenerics.UnitTests\bin\Debug\Lists.dll
+D:\repos\GenericCollections\CollectionsGenerics.UnitTests\bin\Debug\Arrays.pdb
+D:\repos\GenericCollections\CollectionsGenerics.UnitTests\bin\Debug\GenericDictionaries.pdb
+D:\repos\GenericCollections\CollectionsGenerics.UnitTests\bin\Debug\Generics.pdb
+D:\repos\GenericCollections\CollectionsGenerics.UnitTests\bin\Debug\Lists.pdb
+D:\repos\GenericCollections\CollectionsGenerics.UnitTests\obj\Debug\CollectionsGenerics.UnitTests.dll
+D:\repos\GenericCollections\CollectionsGenerics.UnitTests\obj\Debug\CollectionsGenerics.UnitTests.pdb
+D:\repos\GenericCollections\CollectionsGenerics.UnitTests\obj\Debug\CollectionsGenerics.UnitTests.csprojAssemblyReference.cache
+D:\repos\GenericCollections\CollectionsGenerics.UnitTests\obj\Debug\CollectionsGenerics.UnitTests.csproj.CoreCompileInputs.cache
+D:\repos\GenericCollections\CollectionsGenerics.UnitTests\obj\Debug\CollectionsGenerics.UnitTests.csproj.CopyComplete

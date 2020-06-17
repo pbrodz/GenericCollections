@@ -3,3 +3,9 @@ c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\Generi
 c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\GenericCollectionInterfaces\bin\Debug\GenericCollectionInterfaces.pdb
 c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\GenericCollectionInterfaces\obj\Debug\GenericCollectionInterfaces.dll
 c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\GenericCollectionInterfaces\obj\Debug\GenericCollectionInterfaces.pdb
+D:\repos\GenericCollections\GenericCollectionInterfaces\bin\Debug\GenericCollectionInterfaces.dll
+D:\repos\GenericCollections\GenericCollectionInterfaces\bin\Debug\GenericCollectionInterfaces.pdb
+D:\repos\GenericCollections\GenericCollectionInterfaces\obj\Debug\GenericCollectionInterfaces.dll
+D:\repos\GenericCollections\GenericCollectionInterfaces\obj\Debug\GenericCollectionInterfaces.pdb
+D:\repos\GenericCollections\GenericCollectionInterfaces\obj\Debug\GenericCollectionInterfaces.csprojAssemblyReference.cache
+D:\repos\GenericCollections\GenericCollectionInterfaces\obj\Debug\GenericCollectionInterfaces.csproj.CoreCompileInputs.cache

@@ -3,3 +3,9 @@ c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\Arrays
 c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\Arrays\obj\Debug\Arrays.csprojResolveAssemblyReference.cache
 c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\Arrays\obj\Debug\Arrays.dll
 c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\Arrays\obj\Debug\Arrays.pdb
+D:\repos\GenericCollections\Arrays\bin\Debug\Arrays.dll
+D:\repos\GenericCollections\Arrays\bin\Debug\Arrays.pdb
+D:\repos\GenericCollections\Arrays\obj\Debug\Arrays.dll
+D:\repos\GenericCollections\Arrays\obj\Debug\Arrays.pdb
+D:\repos\GenericCollections\Arrays\obj\Debug\Arrays.csprojAssemblyReference.cache
+D:\repos\GenericCollections\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache

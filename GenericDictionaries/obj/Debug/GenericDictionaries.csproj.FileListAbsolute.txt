@@ -3,3 +3,9 @@ c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\Generi
 c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\GenericDictionaries\obj\Debug\GenericDictionaries.csprojResolveAssemblyReference.cache
 c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\GenericDictionaries\obj\Debug\GenericDictionaries.dll
 c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\GenericDictionaries\obj\Debug\GenericDictionaries.pdb
+D:\repos\GenericCollections\GenericDictionaries\bin\Debug\GenericDictionaries.dll
+D:\repos\GenericCollections\GenericDictionaries\bin\Debug\GenericDictionaries.pdb
+D:\repos\GenericCollections\GenericDictionaries\obj\Debug\GenericDictionaries.dll
+D:\repos\GenericCollections\GenericDictionaries\obj\Debug\GenericDictionaries.pdb
+D:\repos\GenericCollections\GenericDictionaries\obj\Debug\GenericDictionaries.csproj.CoreCompileInputs.cache
+D:\repos\GenericCollections\GenericDictionaries\obj\Debug\GenericDictionaries.csprojAssemblyReference.cache

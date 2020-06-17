@@ -23,6 +23,7 @@ namespace CollectionsGenerics
     /// </summary>
     public class Arrays
     {
+
         public Arrays()
         {
             //Constructor

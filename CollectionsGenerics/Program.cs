@@ -21,6 +21,8 @@ namespace CollectionsGenerics
     {
         static void Main(string[] args)
         {
+
+
             var arrays = new Arrays();
 
             //Simple arrays
@@ -52,7 +54,7 @@ namespace CollectionsGenerics
             //Reading from a Generic List<T>
             //Lets create and populate a generic list first
             var orders = new List<Lists.order>() { new Lists.order() {id=1, customer="Paul", value=1000.0f} };
-
+            var pooh = new System.DateTime(2017, 01, 01);
             foreach (var order in orders)
             {
                 //We have overridden the ToString() in the order class to format it correctly
@@ -61,6 +63,7 @@ namespace CollectionsGenerics
                 Console.WriteLine(order);
             }
             Console.ReadLine();
+
         }
     }
 }

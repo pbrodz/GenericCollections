@@ -3,3 +3,9 @@ c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\Generi
 c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\Generics\obj\Debug\Generics.dll
 c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\Generics\obj\Debug\Generics.pdb
 c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\Generics\obj\Debug\Generics.csprojResolveAssemblyReference.cache
+D:\repos\GenericCollections\Generics\bin\Debug\Generics.dll
+D:\repos\GenericCollections\Generics\bin\Debug\Generics.pdb
+D:\repos\GenericCollections\Generics\obj\Debug\Generics.dll
+D:\repos\GenericCollections\Generics\obj\Debug\Generics.pdb
+D:\repos\GenericCollections\Generics\obj\Debug\Generics.csprojAssemblyReference.cache
+D:\repos\GenericCollections\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache

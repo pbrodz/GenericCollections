@@ -12,7 +12,7 @@ namespace GenericDictionaries
     /// System.Collections.Generic
     /// -Dictionary (most common, not sorted)
     /// -SortedList (sorted by key, faster than a sorteddictionary, faster when populating from sorted data)
-    /// -SortedDictionary (sorted by key, fater than a sortedlist when populating from unsorted data)
+    /// -SortedDictionary (sorted by key, faster than a sortedlist when populating from unsorted data)
     /// 
     /// System.Collections.ObjectModel (used when creating a library that returns dictionaries)
     /// -ReadOnlyDictionary
