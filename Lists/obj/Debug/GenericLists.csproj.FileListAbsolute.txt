@@ -4,7 +4,6 @@ c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\Lists\
 c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\Lists\obj\Debug\Lists.pdb
 D:\repos\GenericCollections\Lists\bin\Debug\Lists.dll
 D:\repos\GenericCollections\Lists\bin\Debug\Lists.pdb
+D:\repos\GenericCollections\Lists\obj\Debug\GenericLists.csproj.CoreCompileInputs.cache
 D:\repos\GenericCollections\Lists\obj\Debug\Lists.dll
 D:\repos\GenericCollections\Lists\obj\Debug\Lists.pdb
-D:\repos\GenericCollections\Lists\obj\Debug\GenericLists.csprojAssemblyReference.cache
-D:\repos\GenericCollections\Lists\obj\Debug\GenericLists.csproj.CoreCompileInputs.cache

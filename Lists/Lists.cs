@@ -6,10 +6,6 @@ using System.Threading.Tasks;
 
 namespace Lists
 {
-    public class optionClass
-    {
-    }
-
     public class order
     {
         public int id { get; set; }

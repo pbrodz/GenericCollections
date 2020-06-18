@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectionsGenerics", "CollectionsGenerics\CollectionsGenerics.csproj", "{F660F27A-B8B1-47DA-BEB0-E012CFF4AF20}"
 EndProject
@@ -20,6 +20,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericDictionaries", "GenericDictionaries\GenericDictionaries.csproj", "{EB9F61BD-4B9C-4C1E-92D2-7994109B1DD3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericCollectionInterfaces", "GenericCollectionInterfaces\GenericCollectionInterfaces.csproj", "{55FF4E40-62AB-42A8-B9C6-2D7BBFDDE147}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuples", "Tuples\Tuples.csproj", "{E1C2F60F-37FE-4254-A13A-499FFB912092}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -55,6 +57,10 @@ Global
 		{55FF4E40-62AB-42A8-B9C6-2D7BBFDDE147}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55FF4E40-62AB-42A8-B9C6-2D7BBFDDE147}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55FF4E40-62AB-42A8-B9C6-2D7BBFDDE147}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1C2F60F-37FE-4254-A13A-499FFB912092}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1C2F60F-37FE-4254-A13A-499FFB912092}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1C2F60F-37FE-4254-A13A-499FFB912092}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1C2F60F-37FE-4254-A13A-499FFB912092}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -66,5 +72,9 @@ Global
 		{3B9F6EB6-C17A-44E0-AE17-F63121A60FA7} = {FA4DC4AF-0FAF-412A-A421-69325CB35D8F}
 		{EB9F61BD-4B9C-4C1E-92D2-7994109B1DD3} = {FA4DC4AF-0FAF-412A-A421-69325CB35D8F}
 		{55FF4E40-62AB-42A8-B9C6-2D7BBFDDE147} = {FA4DC4AF-0FAF-412A-A421-69325CB35D8F}
+		{E1C2F60F-37FE-4254-A13A-499FFB912092} = {FA4DC4AF-0FAF-412A-A421-69325CB35D8F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA81EF43-10D6-4BB5-8EAF-14D772376DFF}
 	EndGlobalSection
 EndGlobal

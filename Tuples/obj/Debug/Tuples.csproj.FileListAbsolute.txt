@@ -1,0 +1,5 @@
+D:\repos\GenericCollections\Tuples\bin\Debug\Tuples.dll
+D:\repos\GenericCollections\Tuples\bin\Debug\Tuples.pdb
+D:\repos\GenericCollections\Tuples\obj\Debug\Tuples.csproj.CoreCompileInputs.cache
+D:\repos\GenericCollections\Tuples\obj\Debug\Tuples.dll
+D:\repos\GenericCollections\Tuples\obj\Debug\Tuples.pdb

@@ -17,12 +17,15 @@ D:\repos\GenericCollections\CollectionsGenerics.UnitTests\bin\Debug\Arrays.dll
 D:\repos\GenericCollections\CollectionsGenerics.UnitTests\bin\Debug\GenericDictionaries.dll
 D:\repos\GenericCollections\CollectionsGenerics.UnitTests\bin\Debug\Generics.dll
 D:\repos\GenericCollections\CollectionsGenerics.UnitTests\bin\Debug\Lists.dll
+D:\repos\GenericCollections\CollectionsGenerics.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\repos\GenericCollections\CollectionsGenerics.UnitTests\bin\Debug\Tuples.dll
 D:\repos\GenericCollections\CollectionsGenerics.UnitTests\bin\Debug\Arrays.pdb
 D:\repos\GenericCollections\CollectionsGenerics.UnitTests\bin\Debug\GenericDictionaries.pdb
 D:\repos\GenericCollections\CollectionsGenerics.UnitTests\bin\Debug\Generics.pdb
 D:\repos\GenericCollections\CollectionsGenerics.UnitTests\bin\Debug\Lists.pdb
-D:\repos\GenericCollections\CollectionsGenerics.UnitTests\obj\Debug\CollectionsGenerics.UnitTests.dll
-D:\repos\GenericCollections\CollectionsGenerics.UnitTests\obj\Debug\CollectionsGenerics.UnitTests.pdb
+D:\repos\GenericCollections\CollectionsGenerics.UnitTests\bin\Debug\Tuples.pdb
 D:\repos\GenericCollections\CollectionsGenerics.UnitTests\obj\Debug\CollectionsGenerics.UnitTests.csprojAssemblyReference.cache
 D:\repos\GenericCollections\CollectionsGenerics.UnitTests\obj\Debug\CollectionsGenerics.UnitTests.csproj.CoreCompileInputs.cache
 D:\repos\GenericCollections\CollectionsGenerics.UnitTests\obj\Debug\CollectionsGenerics.UnitTests.csproj.CopyComplete
+D:\repos\GenericCollections\CollectionsGenerics.UnitTests\obj\Debug\CollectionsGenerics.UnitTests.dll
+D:\repos\GenericCollections\CollectionsGenerics.UnitTests\obj\Debug\CollectionsGenerics.UnitTests.pdb

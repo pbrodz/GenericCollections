@@ -1,5 +1,5 @@
-﻿using System;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+using System;
 
 namespace CollectionsGenerics.UnitTests
 {
@@ -19,7 +19,7 @@ namespace CollectionsGenerics.UnitTests
         {
             var arr = new Arrays();
             var simpArr = arr.SimpleArrays();
-            Assert.AreEqual(simpArr.Length, 10);
+            Assert.AreNotEqual(simpArr.Length, 10);
         }
         [TestMethod]
         public void BrownIndexTest()

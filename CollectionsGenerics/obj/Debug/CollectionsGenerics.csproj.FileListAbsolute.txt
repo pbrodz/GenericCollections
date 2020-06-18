@@ -12,19 +12,5 @@ c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\Collec
 c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\CollectionsGenerics\bin\Debug\Lists.pdb
 c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\CollectionsGenerics\bin\Debug\GenericDictionaries.dll
 c:\users\pbrodz\documents\visual studio 2015\Projects\CollectionsGenerics\CollectionsGenerics\bin\Debug\GenericDictionaries.pdb
-D:\repos\GenericCollections\CollectionsGenerics\bin\Debug\CollectionsGenerics.exe.config
-D:\repos\GenericCollections\CollectionsGenerics\obj\Debug\CollectionsGenerics.exe
-D:\repos\GenericCollections\CollectionsGenerics\obj\Debug\CollectionsGenerics.pdb
-D:\repos\GenericCollections\CollectionsGenerics\bin\Debug\CollectionsGenerics.exe
-D:\repos\GenericCollections\CollectionsGenerics\bin\Debug\CollectionsGenerics.pdb
-D:\repos\GenericCollections\CollectionsGenerics\bin\Debug\Arrays.dll
-D:\repos\GenericCollections\CollectionsGenerics\bin\Debug\GenericDictionaries.dll
-D:\repos\GenericCollections\CollectionsGenerics\bin\Debug\Generics.dll
-D:\repos\GenericCollections\CollectionsGenerics\bin\Debug\Lists.dll
-D:\repos\GenericCollections\CollectionsGenerics\bin\Debug\Arrays.pdb
-D:\repos\GenericCollections\CollectionsGenerics\bin\Debug\GenericDictionaries.pdb
-D:\repos\GenericCollections\CollectionsGenerics\bin\Debug\Generics.pdb
-D:\repos\GenericCollections\CollectionsGenerics\bin\Debug\Lists.pdb
 D:\repos\GenericCollections\CollectionsGenerics\obj\Debug\CollectionsGenerics.csprojAssemblyReference.cache
 D:\repos\GenericCollections\CollectionsGenerics\obj\Debug\CollectionsGenerics.csproj.CoreCompileInputs.cache
-D:\repos\GenericCollections\CollectionsGenerics\obj\Debug\CollectionsGenerics.csproj.CopyComplete
