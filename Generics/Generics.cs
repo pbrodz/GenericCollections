@@ -10,7 +10,7 @@ namespace Generics
     /// Do use generics to build reusable, type-neutral classes
     /// Do not use generics when it is not needed, truly.
     /// Only use generic types on the class level if multiple methods need it
-    /// Otherwise just define them at the method level
+    /// Otherwise just define them at the method level - totally!
     /// </summary>
     public class Generics
     {
