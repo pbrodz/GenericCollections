@@ -11,6 +11,7 @@ namespace Generics
     /// Do not use generics when it is not needed, truly.
     /// Only use generic types on the class level if multiple methods need it
     /// Otherwise just define them at the method level - totally!
+    /// Another new comment for git testing purposes
     /// </summary>
     public class Generics
     {

@@ -12,6 +12,7 @@ namespace CollectionsGenerics
     /// Mostly you only use arrays when you need multiple dimensions or if you need to squeeze out a bit more
     /// performance when working with a large, fixed number of elements
     /// Use plural for the name
+    /// Another new comment for git testing purposes.
     /// DO use collection initializers
     /// 
     /// AVOID:
